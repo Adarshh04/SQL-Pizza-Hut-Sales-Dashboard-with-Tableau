@@ -27,8 +27,9 @@ Insight Generation: Identified best-selling pizzas, category revenue shares, pea
 Visualization (Optional): Designed Tableau dashboards for clear representation of KPIs and insights.
 
 # 📊
-MySQL(for writing queries).
+MySQL(for writing queries)
+
 Tableau(for visualization)
 
 # Tableau Public Dashboard  
-Check out my interactive Tableau dashboard. [Here](https://public.tableau.com/app/profile/adarsh.varma8814/viz/Dashboardpizzzahut/Dashboard1)
+Check out my interactive Tableau dashboard.[Here](https://public.tableau.com/app/profile/adarsh.varma8814/viz/Dashboardpizzzahut/Dashboard1)
