@@ -20,16 +20,12 @@ Data Understanding: Reviewed database schema, tables, and relationships such as 
 
 Data Cleaning: Ensured data consistency, handled duplicates, and validated key columns.
 
-SQL Query Execution: Used joins, aggregations, CTEs, and window functions for in-depth analysis.
+SQL Query Execution(MySQL): Used joins, aggregations, CTEs, and window functions for in-depth analysis.
 
 Insight Generation: Identified best-selling pizzas, category revenue shares, peak order hours, and cumulative revenue trends.
 
-Visualization (Optional): Designed Tableau dashboards for clear representation of KPIs and insights.
+Visualization (Tableau): Designed Tableau dashboards for clear representation of KPIs and insights.
 
-# 📊
-MySQL(for writing queries)
-
-Tableau(for visualization)
 
 # Tableau Public Dashboard  
 Check out my interactive Tableau dashboard.[Here](https://public.tableau.com/app/profile/adarsh.varma8814/viz/Dashboardpizzzahut/Dashboard1)
